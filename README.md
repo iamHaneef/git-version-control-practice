@@ -26,7 +26,32 @@ In Initial There are imporatant two way terms in Git & GitHub
 
 1 : Git cloning methods ( pull codes from github to vs )  
 
+git clone "https://github.com/iamHaneef/git-version-control-practice.git"
 
+git add . / git add sorting.java
+
+git commit -m "git_clone done"
+
+git push origin main
+
+
+---
+
+2 : Git Remote ( push our written code to empty GitHub Repository )
+
+Basically : push our code to github
+
+Create folder in file manager 
+
+git init -> initialize git in that file
+
+Create GitHub repo (empty repo) in git hub
+
+Connect them using: git remote add origin https://github.com/iamHaneef/git-remote.git
+
+
+
+---
 
 
 
