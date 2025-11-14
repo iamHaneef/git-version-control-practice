@@ -9,10 +9,15 @@ When Learning Git and GitHub is Confused , but learned in this way was helped me
 
 USES OF GIT :
       📍 Track all the changes in files
+      
       📍 Restore old files easily 
+      
       📍 Store all previous files data or codes
+      
       📍 Avoid Confusion
+      
       📍 Best on Team collaborative work
+      
 
 😉 Git Hub :
      🔗 It's a website or platform which is used to store all git files or project seamlessly.
