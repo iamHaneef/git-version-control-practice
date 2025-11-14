@@ -1,1 +1,7 @@
-null
+git clone "https://github.com/iamHaneef/git-version-control-practice.git"
+
+git add . / git add sorting.java
+
+git commit -m "git_clone done"
+
+git push origin main
