@@ -8,14 +8,11 @@ When Learning Git and GitHub is Confused , but learned in this way was helped me
       It's kind of a local tool for Version Control System and by using git commands we can able to track and manage changes.
 
 USES OF GIT :
-      📍 Track all the changes in files.
-      📍 Restore old files easily 
-      
-      📍 Store all previous files data or codes
-      
-      📍 Avoid Confusion
-      
-      📍 Best on Team collaborative work
+      📍 Track all the changes in files.  
+      📍 Restore old files easily.  
+      📍 Store all previous files data or codes.  
+      📍 Avoid Confusion.  
+      📍 Best on Team collaborative work.  
       
 
 😉 Git Hub :
