@@ -49,7 +49,7 @@ Create GitHub repo (empty repo) in git hub
 
 Connect them using: git remote add origin https://github.com/iamHaneef/git-remote.git
 
-
+<img width="1918" height="1000" alt="Image" src="https://github.com/user-attachments/assets/90954d17-4dc1-49d6-8a3e-f69849c7fe98" />
 
 ---
 
