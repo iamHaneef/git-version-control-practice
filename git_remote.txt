@@ -1,0 +1,11 @@
+Basically : push our code to github
+
+Create folder in file manager 
+
+git init -> initialize git in that file
+
+Create GitHub repo (empty repo) in git hub
+
+Connect them using:
+
+git remote add origin https://github.com/iamHaneef/git-remote.git
