@@ -61,7 +61,7 @@ Connect them using:
 
 ---
 
-## 🧑‍💻 Author
+## 🧑‍💻 Handled By 
 **Muhamad Haneef J**  
 Java Developer | Full Stack Learner  
 📍 Government College of Technology, Coimbatore
