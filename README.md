@@ -26,13 +26,13 @@ In Initial There are imporatant two way terms in Git & GitHub
 
 1 : Git cloning methods ( pull codes from github to vs )  
 
-git clone "https://github.com/iamHaneef/git-version-control-practice.git"
+🌟 git clone "https://github.com/iamHaneef/git-version-control-practice.git"
 
-git add . / git add sorting.java
+🌟 git add . / git add sorting.java
 
-git commit -m "git_clone done"
+🌟 git commit -m "git_clone done"
 
-git push origin main
+🌟 git push origin main
 
 
 ---
@@ -43,11 +43,19 @@ Basically : push our code to github
 
 Create folder in file manager 
 
-git init -> initialize git in that file
+🌟 git init -> initialize git in that file
 
-Create GitHub repo (empty repo) in git hub
+🌟 Create GitHub repo (empty repo) in git hub
 
-Connect them using: git remote add origin https://github.com/iamHaneef/git-remote.git
+Connect them using: 
+
+🌟 git remote add origin https://github.com/iamHaneef/git-remote.git
+
+🌟 git add . / git add sorting.java
+
+🌟 git commit -m "git_clone done"
+
+🌟 git push origin main
 
 <img width="1918" height="1000" alt="Image" src="https://github.com/user-attachments/assets/90954d17-4dc1-49d6-8a3e-f69849c7fe98" />
 
