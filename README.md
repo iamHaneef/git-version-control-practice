@@ -1,49 +1,56 @@
 # Git Version Control Practice
 
-A simple guide and practice repository to understand the basics of Git and GitHub, including cloning, committing, and pushing code.
+## 📌 Overview
+
+A practice repository to understand the fundamentals of Git and GitHub, including version control concepts, repository management, and common workflows.
 
 ---
 
-## 📘 Concepts
+## ⚡ Topics Covered
 
-### 🔹 Version Control
-Tracking and managing changes in project files over time.
-
-Example:
-- Day 1 → Version 1  
-- Day 2 → Version 2  
-- Day 3 → Version 3  
+- Version control basics  
+- Git fundamentals  
+- GitHub usage  
+- Common Git workflows  
 
 ---
 
-### 🔹 Git
-A local version control system used to track and manage changes in files.
+## 🛠️ Tech Stack
 
-#### Uses of Git
-- Track changes in files  
-- Restore previous versions  
-- Maintain history of code  
-- Avoid confusion during development  
-- Enable team collaboration  
+- Git  
+- GitHub  
 
 ---
 
-### 🔹 GitHub
-A cloud platform used to store and manage Git repositories.
-
-- Store project code online  
-- Share projects with others  
-- Collaborate with team members  
-- Manage updates and changes  
-
----
-
-## 🔁 Common Workflows
-
-### 1. Clone Existing Repository
+## 📂 Repository Structure
 
 ```bash
+git-version-control-practice/
+│
+├── README.md
+└── (practice files)
+```
+
+---
+
+## 🔁 Common Commands
+
+```bash
+# Clone repository
 git clone https://github.com/iamHaneef/git-version-control-practice.git
+
+# Stage changes
 git add .
-git commit -m "Initial commit"
+
+# Commit changes
+git commit -m "commit message"
+
+# Push to GitHub
 git push origin main
+```
+
+---
+
+## 🚀 How to Use
+
+> Use this repository to practice Git commands and understand version control workflows.
